@@ -7,6 +7,7 @@
 * (1.3000, 1.5000) inches
 * (33.0200, 38.1000) mm
 
+[gerbers](PentaBlinkyCR2032_gerber.zip?raw=true)
 
 
 | Front | Back |
